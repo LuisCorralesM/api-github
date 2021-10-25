@@ -1,0 +1,140 @@
+body {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.crud-container {
+    height: 100%;
+    padding: 5%;
+    align-content: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    border: 1px solid;
+
+}
+
+.crud-container h1 {
+    margin-top: 10%;
+    margin-right: 20%;
+
+}
+
+#login-form {
+    padding: 5% 25% 5% 25%;
+    text-align: center;
+    background-color: rgba(86, 89, 89, 1);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.google-icon-wrapper {
+    background-color: white;
+    display: flex;
+    padding: 2%;
+    margin: 1% 20% 1% 20%;
+    font-size: 20px;
+    justify-content: space-between;
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+    border-radius: 2%;
+
+}
+
+
+.btn-login {
+    background-color: rgba(243, 209, 132, 1);
+    border: none;
+
+}
+
+.btn-login:hover {
+    background-color: rgba(240, 173, 100, 1);
+
+
+}
+
+/* Navbar ------------------------------------------------------------- */
+
+.btn-link-home {
+    border-radius: 8px;
+}
+
+.btn-link-gestion {
+    border-radius: 8px;
+    margin: 0 20px;
+}
+
+.link-home,
+.link-gestion {
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+
+.btn-link-home:hover,
+.btn-link-gestion:hover {
+    background-color: #777;
+}
+
+.link-home:hover,
+.link-gestion:hover {
+    color: #fff;
+}
+
+.mensaje-bienvenida {
+    position: relative;
+    left: 20vw;
+}
+
+.btn-logout {
+    position: absolute;
+    right: 5px;
+    border-radius: 8px;
+    background-color: brown;
+    color: white;
+    font-weight: 900;
+}
+
+/* pagina Principal ---------------------------------------------------*/
+.contenedor-select {
+    display: flex;
+    justify-content: center;
+}
+
+.lista-usuarios {
+    margin: 10px 0;
+    width: 20vw;
+    height: 40px;
+    font-size: 20px;
+}
+
+.btn-usuarios {
+    margin: 10px 0;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.btn-usuarios:hover {
+    background-color: #222;
+}
+
+th {
+    font-weight: 900;
+    font-size: 20px;
+    color: #fff;
+}
+
+.thead1 {
+    background-color: #000;
+}
+
+.thead2 {
+    background-color: #777;
+}
