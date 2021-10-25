@@ -1,10 +1,10 @@
-# Sprint 3_Amazonas
+# Consumo de api Github
 
 ## 1. Descripcion de la aplicacion
-Amazonas es una aplicación de gestión de ventas, que permite que un usuario pueda loguearse con la intencion de poder administrar los productos de una tienda. Con las funcionalidades básicas de un CRUD.
+Github nos ofrece una api, la cual podemos consumir para ver la informacion asociada a un perfil de github
 
 ## 2. Configuración de la aplicacion en tu computador
-  - Descargar el siguiente repositorio: [as030pc/Amazonas](https://github.com/as030pc/Sprint3-Amazonas)
+  - Descargar el siguiente repositorio: [LuisCorralesM/api-github](https://github.com/LuisCorralesM/api-github)
   - Ejecutar el comando npm install o yarn install
   - Ejecutar el comando npm start o yarn start
 
@@ -16,11 +16,7 @@ Amazonas es una aplicación de gestión de ventas, que permite que un usuario pu
 - Autenticacion con Google y con Facebook
 - Implementacion de Formik y Yup
 - Deploy con firebase
-- Libreria para zoom de imagenes: React-image-magnify
-- Libreria para el mapa y geolocalizacion: leaflet y Navigator.
-
 
 
 ## 4. Despliegue de la aplicacion
-- [Netlify](https://vibrant-nightingale-fca1b9.netlify.app)
-- [Firebase](https://sprint3-as.firebaseapp.com/#/login)
+- [Firebase]()
