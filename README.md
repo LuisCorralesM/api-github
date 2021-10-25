@@ -19,4 +19,4 @@ Github nos ofrece una api, la cual podemos consumir para ver la informacion asoc
 
 
 ## 4. Despliegue de la aplicacion
-- [Firebase]()
+- [Firebase](https://prueba-tecnica-42aa0.web.app)
